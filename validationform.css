@@ -1,0 +1,25 @@
+p.prompts{
+	font-size: 25px;
+	line-height: 100px;
+}
+
+#button{
+
+	height: 30px;
+	width: 100px;
+}
+
+body {
+	text-align: center;
+}
+
+p.error {
+	color: red;
+	font-style: italic;
+}
+
+table, td {
+	border: 1px solid black;
+	margin-top: 20px;
+	margin-left: 655px;
+}
