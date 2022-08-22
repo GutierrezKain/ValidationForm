@@ -23,3 +23,13 @@ table, td {
 	margin-top: 20px;
 	margin-left: 655px;
 }
+
+p.ready {
+	font-size: 30px;
+	font-style: italic;
+	color: green;
+}
+div.space {
+	background-color: black;
+	clip-path: polygon(100% 100%,100% 100%,100% 100%,100%;
+}
